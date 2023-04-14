@@ -1,0 +1,9 @@
+C:\Users\Serge\source\repos\FocusForce\FocusForce\bin\Release\DCS FocusGuard.exe.config
+C:\Users\Serge\source\repos\FocusForce\FocusForce\bin\Release\DCS FocusGuard.exe
+C:\Users\Serge\source\repos\FocusForce\FocusForce\bin\Release\DCS FocusGuard.pdb
+C:\Users\Serge\source\repos\FocusForce\FocusForce\obj\Release\FocusForce.MainForm.resources
+C:\Users\Serge\source\repos\FocusForce\FocusForce\obj\Release\FocusForce.Properties.Resources.resources
+C:\Users\Serge\source\repos\FocusForce\FocusForce\obj\Release\FocusForce.csproj.GenerateResource.cache
+C:\Users\Serge\source\repos\FocusForce\FocusForce\obj\Release\FocusForce.csproj.CoreCompileInputs.cache
+C:\Users\Serge\source\repos\FocusForce\FocusForce\obj\Release\DCS FocusGuard.exe
+C:\Users\Serge\source\repos\FocusForce\FocusForce\obj\Release\DCS FocusGuard.pdb
