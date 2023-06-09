@@ -110,7 +110,7 @@ namespace FocusForce
                 int textLength = GetWindowTextLength(dcs_h);
                 StringBuilder outText = new StringBuilder(textLength + 1);
                 int a = GetWindowText(dcs_h, outText, outText.Capacity);
-                if (outText.ToString() == "DCS")
+                if ((outText.ToString() == "DCS") || (outText.ToString() == "DCS.openbeta"))
                 {
                     labelStatus.Text = "DCS process found. Focus guard enabled.";
                     IntPtr own_h = this.Handle;

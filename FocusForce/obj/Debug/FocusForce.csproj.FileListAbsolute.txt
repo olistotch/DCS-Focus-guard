@@ -7,3 +7,13 @@ C:\Users\Serge\source\repos\FocusForce\FocusForce\bin\Debug\DCS FocusGuard.exe
 C:\Users\Serge\source\repos\FocusForce\FocusForce\bin\Debug\DCS FocusGuard.pdb
 C:\Users\Serge\source\repos\FocusForce\FocusForce\obj\Debug\DCS FocusGuard.exe
 C:\Users\Serge\source\repos\FocusForce\FocusForce\obj\Debug\DCS FocusGuard.pdb
+C:\Users\Serge\source\repos\DCS-Focus-guard\FocusForce\bin\Debug\DCS FocusGuard.exe.config
+C:\Users\Serge\source\repos\DCS-Focus-guard\FocusForce\bin\Debug\DCS FocusGuard.exe
+C:\Users\Serge\source\repos\DCS-Focus-guard\FocusForce\bin\Debug\DCS FocusGuard.pdb
+C:\Users\Serge\source\repos\DCS-Focus-guard\FocusForce\obj\Debug\FocusForce.csproj.AssemblyReference.cache
+C:\Users\Serge\source\repos\DCS-Focus-guard\FocusForce\obj\Debug\FocusForce.MainForm.resources
+C:\Users\Serge\source\repos\DCS-Focus-guard\FocusForce\obj\Debug\FocusForce.Properties.Resources.resources
+C:\Users\Serge\source\repos\DCS-Focus-guard\FocusForce\obj\Debug\FocusForce.csproj.GenerateResource.cache
+C:\Users\Serge\source\repos\DCS-Focus-guard\FocusForce\obj\Debug\FocusForce.csproj.CoreCompileInputs.cache
+C:\Users\Serge\source\repos\DCS-Focus-guard\FocusForce\obj\Debug\DCS FocusGuard.exe
+C:\Users\Serge\source\repos\DCS-Focus-guard\FocusForce\obj\Debug\DCS FocusGuard.pdb

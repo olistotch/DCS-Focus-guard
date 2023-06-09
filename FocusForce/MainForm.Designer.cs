@@ -40,6 +40,8 @@ namespace FocusForce
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.notifyIcon = new System.Windows.Forms.NotifyIcon(this.components);
             this.checkBoxStartMinimized = new System.Windows.Forms.CheckBox();
+            this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
+            this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // buttonToggleGuard
@@ -99,9 +101,11 @@ namespace FocusForce
             // statusStrip1
             // 
             this.statusStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.statusStrip1.Location = new System.Drawing.Point(0, 258);
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripStatusLabel1});
+            this.statusStrip1.Location = new System.Drawing.Point(0, 254);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(443, 22);
+            this.statusStrip1.Size = new System.Drawing.Size(443, 26);
             this.statusStrip1.TabIndex = 5;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -123,6 +127,12 @@ namespace FocusForce
             this.checkBoxStartMinimized.UseVisualStyleBackColor = true;
             this.checkBoxStartMinimized.CheckedChanged += new System.EventHandler(this.checkBoxStartMinimized_CheckedChanged);
             // 
+            // toolStripStatusLabel1
+            // 
+            this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
+            this.toolStripStatusLabel1.Size = new System.Drawing.Size(49, 20);
+            this.toolStripStatusLabel1.Text = "V 1.02";
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -142,6 +152,8 @@ namespace FocusForce
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.Shown += new System.EventHandler(this.MainForm_Shown);
             this.Resize += new System.EventHandler(this.MainForm_Resize);
+            this.statusStrip1.ResumeLayout(false);
+            this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -158,6 +170,7 @@ namespace FocusForce
         private System.Windows.Forms.StatusStrip statusStrip1;
         private System.Windows.Forms.NotifyIcon notifyIcon;
         private System.Windows.Forms.CheckBox checkBoxStartMinimized;
+        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel1;
     }
 }
 
